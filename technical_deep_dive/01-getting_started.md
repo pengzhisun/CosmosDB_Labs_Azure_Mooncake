@@ -4,7 +4,7 @@ In this lab, you will create an Azure Cosmos DB account.
 
 ## Log-in to the Azure Portal
 
-1. In a new window, sign in to the **Azure Portal** (<http://portal.azure.com>).
+1. In a new window, sign in to the **Azure Mooncake Portal** (<http://portal.azure.cn>).
 
 1. Once you have logged in, you may be prompted to start a tour of the Azure portal. You can safely skip this step.
 
@@ -44,7 +44,7 @@ In this lab, you will create an Azure Cosmos DB account.
 
     1. In the **API** list, select the **SQL** option.
 
-    1. In the **Location** list, select the **West US** option.
+    1. In the **Location** list, select the **China East 2** option.
 
     1. Ensure the **Geo-redundancy** option is set to **Enable**.
 
